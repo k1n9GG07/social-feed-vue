@@ -32,8 +32,8 @@
 
 1. **Клонирование репозитория**:
    ```bash
-   git clone <url-вашего-репозитория>
-   cd diary-app
+   git clone https://github.com/k1n9GG07/social-feed-vue.git
+   cd social-feed-vue
    ```
 
 2. **Установка зависимостей**:
